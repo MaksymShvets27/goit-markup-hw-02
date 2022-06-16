@@ -147,6 +147,7 @@ body {
 
 /* Portfolio */
 .filtr {
+  font-family: var(--main-font), sans-serif;
   color: var(--title-color);
   background-color: var(--comand-background);
   border-radius: 4px;
